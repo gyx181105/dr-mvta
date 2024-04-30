@@ -25,7 +25,7 @@ export function Hero() {
           </svg>
           <span className="relative">M-VTA</span>
         </span>{' '}
-        帮您搭建私有化<br />大模型企业大脑
+        帮您搭建私有化<br />大模型123企业大脑
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight">
         基于LLM大模型的“企业大脑+业务自动化”私有化应用系统
